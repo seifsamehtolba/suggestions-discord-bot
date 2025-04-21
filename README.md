@@ -1,5 +1,5 @@
+[Watch on YouTube](https://www.youtube.com/watch?v=C4GVfLJP8Fs)
 # Discord Suggestions Bot
-##[Watch on YouTube](https://www.youtube.com/watch?v=C4GVfLJP8Fs)
 A feature-rich Discord bot that implements a complete suggestion system with categories, voting, and admin controls. Perfect for community-driven servers looking to gather and manage user suggestions effectively.
 
 ## ✨ Features
