@@ -1,0 +1,16 @@
+{
+  "name": "suggestions-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for handling suggestions with categories and voting",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.9.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1",
+    "sqlite3": "^5.1.7"
+  }
+}
